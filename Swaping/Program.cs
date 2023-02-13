@@ -1,4 +1,4 @@
-﻿namespace Swaping
+﻿namespace Swapping
 {
     internal class Program
     {

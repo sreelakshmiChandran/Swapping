@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sreelakshmi.chandran\\source\\repos\\Swaping\\Swaping\\Swaping.csproj",
-      "projectName": "Swaping",
-      "projectPath": "C:\\Users\\sreelakshmi.chandran\\source\\repos\\Swaping\\Swaping\\Swaping.csproj",
+      "projectUniqueName": "C:\\Users\\sreelakshmi.chandran\\source\\repos\\Swaping\\Swaping\\Swapping.csproj",
+      "projectName": "Swapping",
+      "projectPath": "C:\\Users\\sreelakshmi.chandran\\source\\repos\\Swaping\\Swaping\\Swapping.csproj",
       "packagesPath": "C:\\Users\\sreelakshmi.chandran\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sreelakshmi.chandran\\source\\repos\\Swaping\\Swaping\\obj\\",
       "projectStyle": "PackageReference",

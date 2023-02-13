@@ -1,0 +1,15 @@
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\bin\Debug\net6.0\Swapping.exe
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\bin\Debug\net6.0\Swapping.deps.json
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\bin\Debug\net6.0\Swapping.runtimeconfig.json
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\bin\Debug\net6.0\Swapping.dll
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\bin\Debug\net6.0\Swapping.pdb
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.csproj.AssemblyReference.cache
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.AssemblyInfoInputs.cache
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.AssemblyInfo.cs
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.dll
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\refint\Swapping.dll
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.pdb
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\Swapping.genruntimeconfig.cache
+C:\Users\sreelakshmi.chandran\source\repos\Swaping\Swaping\obj\Debug\net6.0\ref\Swapping.dll
