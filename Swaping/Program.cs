@@ -8,7 +8,7 @@
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter the 1st number b =");
             int b = int.Parse(Console.ReadLine());
-            int temp = a;
+            int temp = a;   
             a = b;
             b = temp;
             Console.WriteLine("a = " + a);
